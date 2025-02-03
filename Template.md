@@ -54,8 +54,9 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 # {你的名字}
 
 1. 自我介绍
-2. 你认为你会完成本次残酷学习吗？
-
+   HFA
+3. 你认为你会完成本次残酷学习吗？
+   会
 ## Notes
 
 <!-- Content_START -->
